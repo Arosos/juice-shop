@@ -5,7 +5,7 @@
 
 exports.themes = {
   'bluegrey-lightgreen': {
-    bgColor: '#303030',
+    bgColor: '#303031',
     textColor: '#FFFFFF',
     navColor: '#546E7A',
     primLight: '#424242',
